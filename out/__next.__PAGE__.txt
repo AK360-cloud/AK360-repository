@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[95896,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+3:I[77731,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+4:I[73557,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+5:I[16522,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+6:I[58885,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+7:I[75835,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+8:I[63318,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js","/_next/static/chunks/07s5xrinhjw7x.js","/_next/static/chunks/0k~kmanwjiqxt.js"],"default"]
+9:I[50094,["/_next/static/chunks/0s628yn37v-ro.js","/_next/static/chunks/0mea-e5lnmmdh.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-background","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/07s5xrinhjw7x.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0k~kmanwjiqxt.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"FmzZF4C0kXq5UgtJiriQY"}
+b:null
